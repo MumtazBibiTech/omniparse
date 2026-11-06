@@ -1,0 +1,16 @@
+
+fastapi==0.110.0
+uvicorn[standard]==0.29.0
+pydantic==2.6.1
+langchain==0.1.8
+langgraph==0.0.20
+langchain-groq
+qdrant-client==1.7.3
+chromadb==0.4.22
+sentence-transformers==2.5.1
+rank-bm25==0.2.2
+tree-sitter==0.20.4
+GitPython==3.1.42
+groq==0.8.0
+python-dotenv
+redis
